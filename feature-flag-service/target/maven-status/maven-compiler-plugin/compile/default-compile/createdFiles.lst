@@ -1,0 +1,9 @@
+com\company\feature_flag_service\Repository\FeatureFlagAuditRepo.class
+com\company\feature_flag_service\Entity\FeatureFlagAudit.class
+com\company\feature_flag_service\Repository\FeatureFlagrepo.class
+com\company\feature_flag_service\service\Featureflagservice.class
+com\company\feature_flag_service\controller\Featureflagcontroller.class
+com\company\feature_flag_service\service\FeatureFlagCacheService.class
+com\company\feature_flag_service\config\RedisConfig.class
+com\company\feature_flag_service\FeatureFlagServiceApplication.class
+com\company\feature_flag_service\Entity\featureflag.class
